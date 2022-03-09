@@ -1,0 +1,33 @@
+.list{
+    float: inline-end;
+    background-color: darkgray;
+    color: white;
+}
+.register{
+  padding-bottom: 200px;
+    padding-right: 150px;
+    background-color: azure;
+  
+}
+#logout{
+    flood-opacity: initial;
+    border-radius: 69%;
+    color: white;
+    position: fixed;
+    right: 15%;
+    font-size: x-large;
+
+}
+.main{
+    background-color: azure;
+    padding-bottom:50% ;
+}
+#button{
+    color: white;
+    border-radius: 60%;
+    right: 15%;
+    font-size: x-large;
+}
+.valami{
+    padding: 30%;
+}

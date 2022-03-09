@@ -1,0 +1,18 @@
+
+
+.inputs{
+    padding: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    color: black;
+}
+.full{
+    background-color:darkgray;
+
+}
+#button{
+    color: red;
+    position: fixed;
+    right: 15%;
+    font-size: x-large;
+}
