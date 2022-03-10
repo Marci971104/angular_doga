@@ -1,3 +1,14 @@
+// <!--
+//  * File: auth.service.ts
+//  * Authors: Rohrbacher Marcell
+//  * Copyright: 2022, Rohrbacher Marcell
+//  * Group: Szoft II/N
+//  * Date: 2022-03-10
+//  * Github: https://github.com/Marci971104
+//  * Licenc: GNU GPL
+// -->
+
+
 import { Router } from '@angular/router';
 import { HttpClient, HttpHeaders } from '@angular/common/http';
 import { Injectable } from '@angular/core';
