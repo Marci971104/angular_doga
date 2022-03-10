@@ -1,3 +1,13 @@
+// <!--
+//  * File: vehicles.service.ts
+//  * Authors: Rohrbacher Marcell
+//  * Copyright: 2022, Rohrbacher Marcell
+//  * Group: Szoft II/N
+//  * Date: 2022-03-10
+//  * Github: https://github.com/Marci971104
+//  * Licenc: GNU GPL
+// -->
+
 import { Injectable } from '@angular/core';
 import { map } from 'rxjs';
 import { HttpClient, HttpHeaders } from '@angular/common/http';
