@@ -1,3 +1,13 @@
+// <!--
+//  * File: vehicles.component.ts
+//  * Authors: Rohrbacher Marcell
+//  * Copyright: 2022, Rohrbacher Marcell
+//  * Group: Szoft II/N
+//  * Date: 2022-03-10
+//  * Github: https://github.com/Marci971104
+//  * Licenc: GNU GPL
+// -->
+
 import { Component } from '@angular/core';
 
 @Component({
@@ -6,5 +16,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'vehicle';
+  title = 'angular_doga';
 }
