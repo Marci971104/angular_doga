@@ -1,3 +1,13 @@
+// <!--
+//  * File: vehicles.component.ts
+//  * Authors: Rohrbacher Marcell
+//  * Copyright: 2022, Rohrbacher Marcell
+//  * Group: Szoft II/N
+//  * Date: 2022-03-10
+//  * Github: https://github.com/Marci971104
+//  * Licenc: GNU GPL
+// -->
+
 import { Component, OnInit } from '@angular/core';
 import { FormBuilder, FormGroup } from '@angular/forms';
 import { Router } from '@angular/router';
